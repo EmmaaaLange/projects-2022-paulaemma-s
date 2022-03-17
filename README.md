@@ -1,9 +1,9 @@
-# \[Group name\]
+# \[Group name:PaulaEmma's\]
 
 **Group members:**
-- A
-- B
-- C
+- Paula Bolduratu
+- Emma Lange
+- Emma Eberle
 
 This repository contains  
 1. Inaugural project. 
